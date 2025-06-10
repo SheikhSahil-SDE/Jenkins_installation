@@ -26,3 +26,13 @@
 
   <img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/2.0.png" width="1000" height="600">
   <img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/2.1.png" width="1000" height="600">
+
+# Step 3: Start Jenkins
+
+          sudo systemctl enable jenkins
+          
+          sudo systemctl start jenkins
+
+          sudo systemctl status jenkins
+
+<img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/3.png" width="1000" height="300">
