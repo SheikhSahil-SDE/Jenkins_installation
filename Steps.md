@@ -13,7 +13,7 @@
     sudo apt-get update
     sudo apt-get install jenkins
 
-  <img src="" width="1000" height="900">
+  <img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/1.png" width="1000" height="600">
 
 # Step 2: Installation of Java
 
@@ -24,5 +24,5 @@
     OpenJDK Runtime Environment (build 21.0.3+11-Debian-2)
     OpenJDK 64-Bit Server VM (build 21.0.3+11-Debian-2, mixed mode, sharing)
 
-  <img src="" width="1000" height="900">
-  <img src="" width="1000" height="900">
+  <img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/2.0.png" width="1000" height="600">
+  <img src="https://github.com/SheikhSahil-SDE/Jenkins_installation/blob/main/Jenkins_Install/2.1.png" width="1000" height="600">
